@@ -1,9 +1,5 @@
 package com.zydgbbs.request.domain;
 
-/**
- * @author lyf9279
- * @date 2019/10/11 19:40
- */
 public class User {
     private String name;
     private String password;
